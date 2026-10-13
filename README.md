@@ -1,6 +1,8 @@
 ## Hi there 👋
 ## My name is Suleyman Hudaybergenow
-**Backend Developer**
+** I am Backend Developer**
+* My main framework is `NestJS`*
+
 <!--
 **Suleyman-Hudaybergenow/Suleyman-Hudaybergenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

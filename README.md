@@ -3,6 +3,7 @@
 ## My name is Suleyman Hudaybergenow
 ** I am Backend Developer**
 * My main framework is `NestJS`*
+> "Build. Break. Learn. Repeat."
 ### Tech Stack
 - Typescrypt
 - NestJS

@@ -34,6 +34,11 @@
 [E-commerce](https://github.com/Suleyman-Hudaybergenow/Scalable-E-commerce),
 [Movie-reservation](https://github.com/Suleyman-Hudaybergenow/movie-reservation)
 
+Статистика
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Suleyman-Hudaybergenow&theme=radical)
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Suleyman-Hudaybergenow&layout=compact&theme=radical)
 
 <!--
 **Suleyman-Hudaybergenow/Suleyman-Hudaybergenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

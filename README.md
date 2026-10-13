@@ -1,7 +1,20 @@
 ## Hi there 👋
+## About me
 ## My name is Suleyman Hudaybergenow
 ** I am Backend Developer**
 * My main framework is `NestJS`*
+### Tech Stack
+- Typescrypt
+- NestJS
+- Postgresql
+- Redis
+[My GitHub](https://github.com/Suleyman-Hudaybergenow)
+---
+## My projects
+[Myhmanhana](https://github.com/Suleyman-Hudaybergenow/myhmanhana)
+[E-commerce](https://github.com/Suleyman-Hudaybergenow/Scalable-E-commerce)
+[Movie-reservation](https://github.com/Suleyman-Hudaybergenow/movie-reservation)
+
 
 <!--
 **Suleyman-Hudaybergenow/Suleyman-Hudaybergenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

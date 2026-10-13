@@ -4,12 +4,30 @@
 ** I am Backend Developer**
 * My main framework is `NestJS`*
 > "Build. Break. Learn. Repeat."
+---
+```  git push  ```
 ### Tech Stack
-- Typescrypt[TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - NestJS
-- Postgresql
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - Redis
+  ---
 [My GitHub](https://github.com/Suleyman-Hudaybergenow)
+---
+## Learning Goals
+
+- [x] Learn NestJS
+- [x] Work with PostgreSQL
+- [ ] Master Docker
+- [ ] Learn system design
+---
+## Technologies
+
+| Technology | Purpose |
+|---|---|
+| NestJS | Backend |
+| PostgreSQL | Database |
+| Redis | Caching |
 ---
 ## My projects
 [Myhmanhana](https://github.com/Suleyman-Hudaybergenow/myhmanhana),

@@ -30,7 +30,6 @@
 | Redis | Caching |
 ---
 ## My projects
-[Myhmanhana](https://github.com/Suleyman-Hudaybergenow/myhmanhana),
 [E-commerce](https://github.com/Suleyman-Hudaybergenow/Scalable-E-commerce),
 [Movie-reservation](https://github.com/Suleyman-Hudaybergenow/movie-reservation)
 
